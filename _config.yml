@@ -19,7 +19,7 @@ title: Sid Joshi # the main title
 tagline: Penetration Tester # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Welcome to my cybersecurity blog, where we dive into the world of digital security through insightful articles, hands-on tutorials, and engaging challenges. Whether you're new to cybersecurity or a seasoned pro, you'll find valuable content on vulnerability assessments, ethical hacking, and the latest security practices.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -35,7 +35,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Sid Joshi
-  email: example@domain.com # change to your email address
+  email: sidjoshi1337@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/dr34mb0y_sid # change to your twitter homepage
