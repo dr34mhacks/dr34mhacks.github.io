@@ -88,8 +88,11 @@ If you have a Debian-based OS (e.g., Ubuntu or Kali):
 
 ```bash
 git clone https://github.com/dr34mhacks/operation-file-hunt.git
+cd operation-file-hunt
 sudo bash runme.sh
 ```
+
+![](/assets/img/posts/lfi/startlab.png)
 
 This will start the lab on localhost with the path set to: `http://localhost:8085/`
 
