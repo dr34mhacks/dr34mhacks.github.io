@@ -3,7 +3,7 @@ title: "Baby2 VulnHub WriteUp"
 date: 2025-04-16 01:37:00 +/-0000
 categories: [VulnLab, Active Directory]
 tags: [active directory, gpoabuse, baby2]    # TAG names should always be lowercase
-description: An overview of the differences between Local File Inclusion (LFI) and file retrieval issues, including methods for chaining LFI vulnerabilities to achieve Remote Code Execution (RCE).
+description: Baby2 is a medium level machine running on Windows Server. It contains a vulnerable GPO setting that allows us to escalate privileges to Domain Admin
 comments: true
 image: /assets/img/posts/baby2/1.png
 ---
