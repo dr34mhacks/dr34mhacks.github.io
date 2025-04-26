@@ -1,6 +1,6 @@
 ---
 title: "Baby2 VulnHub WriteUp"
-date: 2025-04-16 01:37:00 +/-0000
+date: 2025-04-16
 categories: [VulnLab, Active Directory]
 tags: [active directory, gpoabuse, baby2]    # TAG names should always be lowercase
 description: Baby2 is a medium level machine running on Windows Server. It contains a vulnerable GPO setting that allows us to escalate privileges to Domain Admin

@@ -1,6 +1,6 @@
 ---
 title: "LFI vs. File Retrieval: How to Chain LFI into Remote Code Execution"
-date: 2024-08-07 01:37:00 +/-0000
+date: 2024-08-07 01:37:00 +0000
 categories: [Web, LFI]
 tags: [lfi, rce, file retrieval]    # TAG names should always be lowercase
 description: An overview of the differences between Local File Inclusion (LFI) and file retrieval issues, including methods for chaining LFI vulnerabilities to achieve Remote Code Execution (RCE).
