@@ -16,4 +16,4 @@ I've collected a few shiny certifications along the way, including the [OSCP](ht
 So, whether you're here to explore the latest in security techniques or just curious about the cyber world, you're in good company. Stick around as we dive into the fascinating world of cybersecurity together!
 
 Many Thanks,
-Siddharth
+Siddharth Joshi
