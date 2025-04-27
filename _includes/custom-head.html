@@ -1,0 +1,18 @@
+<!-- Custom head content that will be included at the end of the <head> section -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@xz/fonts@1/serve/monaco.min.css">
+<style>
+  /* Override Bootstrap variables directly in the HTML */
+  :root {
+    --bs-font-monospace: 'Monaco', monospace !important;
+  }
+  
+  /* Target all code elements with high specificity */
+  code, pre, .highlight, .highlight pre, pre.highlight, .language-plaintext {
+    font-family: 'Monaco', monospace !important;
+  }
+  
+  /* Force Monaco font for specific elements */
+  .highlight pre code {
+    font-family: 'Monaco', monospace !important;
+  }
+</style>

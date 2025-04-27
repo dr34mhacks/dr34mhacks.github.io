@@ -391,6 +391,12 @@ This allowed us to gain an interactive shell as **Administrator**, effectively a
 
 ![](/assets/img/posts/retro/12.jpg)
 
+## Bonus
+
+I found ADCS very interesting; however, it’s a bit lengthy to go through all the commands. I created an automated script that takes care of everything. It will automatically find the vulnerable template, request the TGS, dump the NTLM hash of the administrator account, and verify the login with NXC. (This script also handles the edge case of the key-size issue.) You can check out the esc1.py script [here](https://github.com/dr34mhacks/ADCS-Exploitation-Toolkit/blob/main/esc1.py).
+
+![](/assets/img/posts/retro/13.jpg)
+
 
 ## Final Thoughts
 
