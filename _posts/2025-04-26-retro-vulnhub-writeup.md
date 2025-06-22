@@ -400,7 +400,6 @@ I found ADCS very interesting; however, it’s a bit lengthy to go through all t
 
 ## Final Thoughts
 
-
 The Retro VulnHub machine was a super fun, where I learned a lot about exploiting Active Directory misconfigurations. The machine involved techniques like enumerating SMB shares to identify weak passwords, exploiting a pre-created computer account with enrollment rights, and executing the ESC1 vulnerability to request certificates on behalf of any user. Additionally, I gained hands-on experience with tools like **Certipy** for certificate-based attacks and gaining full domain control. This machine was particularly valuable for understanding how misconfigurations in ADCS can be leveraged for privilege escalation, making it an excellent challenge for anyone looking to improve their skills in Active Directory exploitation.
 
 Keep hacking, keep learning, and most importantly—stay ethical! 😊
