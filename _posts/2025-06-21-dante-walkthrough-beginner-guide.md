@@ -5,7 +5,7 @@ categories: [HackTheBox, Walkthroughs, Dante, Windows, Active Directory, Escalat
 tags: [active directory, privileges escalation, smb, windows, active directory, certipy, dante]    # TAG names should always be lowercase
 description: A beginner-friendly (and slightly painful) walkthrough of Hack The Box's Dante Pro Lab. Learn how I tackled pivoting, privilege escalation, and Active Directory challenges and what tools, tips, and scripts helped me survive and thrive in this intense red teaming lab environment.
 comments: true
-image: /assets/img/posts/dante/dantehtb.png
+image: /assets/img/posts/dante/cert.png
 ---
 
 > *“I thought I was just signing up for a lab. Turns out, I was enrolling in a virtual bootcamp that made me cry, learn, and finally... conquer.”*
@@ -65,6 +65,8 @@ So yes, if you are aiming for real-world internal pentest simulation, Dante will
 ## 🏗️ Lab Structure
 
 The lab contains `14 machines` and a total of `27 flags`. The flags follow the traditional `DANTE{}` format.
+
+![](/assets/img/posts/dante/dantehtb.png)
 
 Well, don’t expect a well-connected corporate AD environment like RastaLabs. Surprisingly, there are very few interdependencies between machines. It felt more like several standalone HTB-style machines awkwardly joined into a network.
 
